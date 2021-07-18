@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ceserafini
 - 👀 I’m interested in all!
-- 🌱 I’m currently learning Unreal
-- 💞️ I’m looking to collaborate on Pixi JS
+- 🌱 I’m currently learning Pixi JS
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ceci.cerasifera@gmail.com
 
 <!---
